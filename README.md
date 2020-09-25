@@ -1,3 +1,3 @@
 # Hello-World-3
 
-This a a text placeholder.
+This first project will show how to use the system.
